@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/rodrigo-de-los-santos/">Rodrigo de los Santos</a> :smiley:
+ # <a href="https://www.linkedin.com/in/rodrigo-de-los-santos/">Rodrigo de los Santos</a>
  
  <a href="https://twitter.com/Rodri_dlsantos">
   <img align="left" alt="Rodrigo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
