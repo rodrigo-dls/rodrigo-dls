@@ -49,8 +49,6 @@ Currently developing my skills in Machine Learning and Artificial Intelligence.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-dls&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigo-dls&&show_icons=true&theme=radical&line_height=27&v=5&layout=compact" alt="Rodrigo's GitHub Stats" />
-
 
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@Rodri_dlsantos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rodri_dlsantos)](https://twitter.com/Rodri_dlsantos) [![Linkedin Badge](https://img.shields.io/badge/-rodrigo_de_los_santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-de-los-santos/)](https://www.linkedin.com/in/rodrigo-de-los-santos/) [![Gmail Badge](https://img.shields.io/badge/-rodri.m.dls@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodri.m.dls@gmail.com)](mailto:rodri.m.dls@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@rodri.dls-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rodri.dls/)](https://www.instagram.com/rodri.dls/)
