@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-Data Analyst | Machine Learning | Deep Learning | Python
+Data Analyst | Businness Intelligence | Storytelling 
 Student at [Instituto Data Science](https://institutodatascience.org/) | 
 
 ## About :sunglasses:
@@ -30,11 +30,11 @@ It’s all about creating a smooth experience while keeping things informative a
 - Data Science with **Python**.
 <!-- - Deep Learning -->
 
-
+<!--
 <a href="https://github.com/rodrigo-dls">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-dls&theme=radical&hide=glsl,python" />
 </a>
-
+-->
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-rodrigo_de_los_santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-de-los-santos/)](https://www.linkedin.com/in/rodrigo-de-los-santos/) [![Gmail Badge](https://img.shields.io/badge/-rodrifordata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodri.m.dls@gmail.com)](mailto:rodrifordata@gmail.com) 
