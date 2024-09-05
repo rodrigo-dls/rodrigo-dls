@@ -7,9 +7,6 @@
 <a href="https://public.tableau.com/app/profile/rodrigo.de.los.santos5740/vizzes">
   <img align="left" alt="Rodrigo's Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />
 </a>
-<a href="https://github.com/rodrigo-dls">
-  <img align="left" alt="Rodrigo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
 <br/>
 <br/>
