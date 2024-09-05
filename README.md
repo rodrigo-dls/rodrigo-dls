@@ -22,6 +22,7 @@ I’m a dedicated Data Analyst who enjoys designing polished dashboards to simpl
 It’s all about creating a smooth experience while keeping things informative and approachable.
 
 ## Communities :dancers:
+- I like to spend time at [HackerRank](https://www.hackerrank.com/profile/rodri_m_dls) 
 - Contributer at [Platzi](https://platzi.com/) ( Largest spanish e-learning community )
 - Contributer at [Kaggle](https://kaggle.com/) ( Largest Data Science community )
 
